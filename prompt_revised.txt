@@ -1,0 +1,53 @@
+You are a biological query classification system.
+
+Your task is to identify the PRIMARY INTENT of the CURRENT query.
+
+CLASSIFICATION RULES:
+
+1. PaperSearch
+Choose this ONLY when the user requests scientific papers,
+research articles, publications, or literature searches.
+
+2. ProteinSearch
+Choose this ONLY when the user requests protein sequences,
+3D structures, PDB entries, UniProt records, or protein data.
+
+3. GeneralQuestion
+Choose this when the user asks for an explanation,
+definition, comparison, or biological concept without
+requesting external papers or protein database records.
+
+IMPORTANT:
+Classify the CURRENT query, not the examples.
+Do not assume that every query belongs to PaperSearch.
+Return EXACTLY ONE label:
+PaperSearch, ProteinSearch, or GeneralQuestion.
+
+LABELED EXAMPLES:
+
+Query: Find papers about enzyme engineering
+Correct category: PaperSearch
+
+Query: Search for publications on protein folding
+Correct category: PaperSearch
+
+Query: Retrieve the PDB structure 1A2Y
+Correct category: ProteinSearch
+
+Query: Download the amino acid sequence of insulin
+Correct category: ProteinSearch
+
+Query: Explain what an enzyme is
+Correct category: GeneralQuestion
+
+Query: Why do proteins fold
+Correct category: GeneralQuestion
+
+
+END OF EXAMPLES.
+
+NOW CLASSIFY THIS NEW QUERY:
+
+Query: {query}
+
+Category:

@@ -1,0 +1,31 @@
+method,query,gold_label,prediction,correct
+Revised Few-shot,Find five research papers about CRISPR-Cas9 protein engineering,PaperSearch,PaperSearch,True
+Revised Few-shot,Search for recent scientific articles about protein folding,PaperSearch,PaperSearch,True
+Revised Few-shot,Find published studies on enzyme engineering using machine learning,PaperSearch,PaperSearch,True
+Revised Few-shot,Search for research papers about AlphaFold applications,PaperSearch,PaperSearch,True
+Revised Few-shot,Find review articles about antibody engineering,PaperSearch,PaperSearch,True
+Revised Few-shot,Search bioRxiv for studies on protein language models,PaperSearch,PaperSearch,True
+Revised Few-shot,Find scientific publications about protein stability prediction,PaperSearch,PaperSearch,True
+Revised Few-shot,Search for research articles on directed evolution of enzymes,PaperSearch,PaperSearch,True
+Revised Few-shot,Find papers discussing the use of AI in protein design,PaperSearch,PaperSearch,True
+Revised Few-shot,Search for published studies about protein mutations and diseases,PaperSearch,PaperSearch,True
+Revised Few-shot,Retrieve the amino acid sequence of human insulin,ProteinSearch,ProteinSearch,True
+Revised Few-shot,Find the three-dimensional structure of hemoglobin in PDB,ProteinSearch,ProteinSearch,True
+Revised Few-shot,Download the protein sequence of green fluorescent protein,ProteinSearch,ProteinSearch,True
+Revised Few-shot,Retrieve the UniProt entry for human catalase,ProteinSearch,ProteinSearch,True
+Revised Few-shot,Find the PDB structure of lysozyme,ProteinSearch,ProteinSearch,True
+Revised Few-shot,Get the amino acid sequence of human p53 protein,ProteinSearch,ProteinSearch,True
+Revised Few-shot,Retrieve structural information about DNA polymerase from PDB,ProteinSearch,ProteinSearch,True
+Revised Few-shot,Find the protein sequence of human myoglobin in UniProt,ProteinSearch,ProteinSearch,True
+Revised Few-shot,Download the three-dimensional structure of an antibody fragment,ProteinSearch,ProteinSearch,True
+Revised Few-shot,Retrieve the protein database record for human cytochrome c,ProteinSearch,ProteinSearch,True
+Revised Few-shot,What is protein engineering,GeneralQuestion,GeneralQuestion,True
+Revised Few-shot,Explain how CRISPR-Cas9 works,GeneralQuestion,GeneralQuestion,True
+Revised Few-shot,Why is protein folding important,GeneralQuestion,GeneralQuestion,True
+Revised Few-shot,What is the difference between DNA and RNA,GeneralQuestion,GeneralQuestion,True
+Revised Few-shot,Explain the role of enzymes in biological reactions,GeneralQuestion,GeneralQuestion,True
+Revised Few-shot,How does AlphaFold predict protein structures,GeneralQuestion,PaperSearch,False
+Revised Few-shot,What is the function of antibodies in the immune system,GeneralQuestion,GeneralQuestion,True
+Revised Few-shot,Explain the concept of directed evolution,GeneralQuestion,GeneralQuestion,True
+Revised Few-shot,Why do mutations affect protein function,GeneralQuestion,GeneralQuestion,True
+Revised Few-shot,What is the difference between primary and tertiary protein structure,GeneralQuestion,GeneralQuestion,True

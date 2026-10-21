@@ -1,0 +1,31 @@
+query,gold_label
+Find five research papers about CRISPR-Cas9 protein engineering,PaperSearch
+Search for recent scientific articles about protein folding,PaperSearch
+Find published studies on enzyme engineering using machine learning,PaperSearch
+Search for research papers about AlphaFold applications,PaperSearch
+Find review articles about antibody engineering,PaperSearch
+Search bioRxiv for studies on protein language models,PaperSearch
+Find scientific publications about protein stability prediction,PaperSearch
+Search for research articles on directed evolution of enzymes,PaperSearch
+Find papers discussing the use of AI in protein design,PaperSearch
+Search for published studies about protein mutations and diseases,PaperSearch
+Retrieve the amino acid sequence of human insulin,ProteinSearch
+Find the three-dimensional structure of hemoglobin in PDB,ProteinSearch
+Download the protein sequence of green fluorescent protein,ProteinSearch
+Retrieve the UniProt entry for human catalase,ProteinSearch
+Find the PDB structure of lysozyme,ProteinSearch
+Get the amino acid sequence of human p53 protein,ProteinSearch
+Retrieve structural information about DNA polymerase from PDB,ProteinSearch
+Find the protein sequence of human myoglobin in UniProt,ProteinSearch
+Download the three-dimensional structure of an antibody fragment,ProteinSearch
+Retrieve the protein database record for human cytochrome c,ProteinSearch
+What is protein engineering,GeneralQuestion
+Explain how CRISPR-Cas9 works,GeneralQuestion
+Why is protein folding important,GeneralQuestion
+What is the difference between DNA and RNA,GeneralQuestion
+Explain the role of enzymes in biological reactions,GeneralQuestion
+How does AlphaFold predict protein structures,GeneralQuestion
+What is the function of antibodies in the immune system,GeneralQuestion
+Explain the concept of directed evolution,GeneralQuestion
+Why do mutations affect protein function,GeneralQuestion
+What is the difference between primary and tertiary protein structure,GeneralQuestion

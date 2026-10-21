@@ -1,0 +1,7 @@
+query,gold_label
+Find papers about enzyme engineering,PaperSearch
+Search for publications on protein folding,PaperSearch
+Retrieve the PDB structure 1A2Y,ProteinSearch
+Download the amino acid sequence of insulin,ProteinSearch
+Explain what an enzyme is,GeneralQuestion
+Why do proteins fold,GeneralQuestion
